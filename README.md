@@ -7,7 +7,8 @@
 - harshkushwaha159@gmail.com
 - Contact Me @ 8340634626**
 
-- ⚡ My technical skills are **Problem solving, Coding, Python, C++, Data Structures, Mathematics.**
+- ⚡ My technical skills are
+-  **Problem solving, Coding, Python, C++, Data Structures, Mathematics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
