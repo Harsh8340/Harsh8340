@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Harsh </h1>
 <h3 align="center">A passionate Computer Engineer & Programmer </h3>
 
-<img align="right" alt="Coding" width="600" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 📫 Reach me through **hm0976@srmist.edu.in
 - Contact Me @ 8340634626**
 
